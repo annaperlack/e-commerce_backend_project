@@ -20,7 +20,7 @@ The user will be able to view and modify data from the category, product, and ta
 
 
 
-[Watch the demonstration video](https://youtu.be/E969TkgcrWQ)
+[Watch the demonstration video](https://youtu.be/pt0MhKR7zTU)
 
 ## Credits
 
